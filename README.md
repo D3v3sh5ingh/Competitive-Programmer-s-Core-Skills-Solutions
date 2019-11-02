@@ -1,5 +1,5 @@
 # Competitive Programmer's Core Skills Solutions
-This repository consist of Assignment problems my c++ solutions of the course  Competitive Programmer's Core Skills.
+This repository consist of Assignment problems my c++ complete solutions of the course  Competitive Programmer's Core Skills.
 
 ## Link to the course : 
 https://www.coursera.org/learn/competitive-programming-core-skills
